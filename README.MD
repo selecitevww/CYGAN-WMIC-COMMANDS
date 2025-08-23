@@ -14,35 +14,35 @@ Capacity
 
 X:\Windows\System32>wmic CONTEXT
 
-NAMESPACE             : root\cimv2
-
-ROLE                  : root\cli
-
-NODE(S)               : яяяяяяяяяяяя
-
-IMPLEVEL              : IMPERSONATE
-
-[AUTHORITY            : N/A]
-
-AUTHLEVEL             : PKTPRIVACY
-
-LOCALE                : ms_419
-
-PRIVILEGES            : ENABLE
-
-TRACE                 : OFF
-
-RECORD                : N/A
-
-INTERACTIVE           : OFF
-
-FAILFAST              : OFF
-
-OUTPUT                : STDOUT
-
-APPEND                : STDOUT
-
-USER                  : N/A
-
-AGGREGATE             : ON
+# NAMESPACE             : root\cimv2
+# 
+# ROLE                  : root\cli
+# 
+# NODE(S)               : яяяяяяяяяяяя
+# 
+# IMPLEVEL              : IMPERSONATE
+# 
+# [AUTHORITY            : N/A]
+# 
+# AUTHLEVEL             : PKTPRIVACY
+# 
+# LOCALE                : ms_419
+# 
+# PRIVILEGES            : ENABLE
+# 
+# TRACE                 : OFF
+# 
+# RECORD                : N/A
+# 
+# INTERACTIVE           : OFF
+# 
+# FAILFAST              : OFF
+# 
+# OUTPUT                : STDOUT
+# 
+# APPEND                : STDOUT
+# 
+# USER                  : N/A
+# 
+# AGGREGATE             : ON
 
