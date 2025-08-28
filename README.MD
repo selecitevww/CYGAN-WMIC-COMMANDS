@@ -46,3 +46,4 @@ X:\Windows\System32>wmic CONTEXT
 # 
 # AGGREGATE             : ON
 
+  ![1](https://github.com/selecitevww/CYGAN-WMIC-COMMANDS/blob/main/12345.png)
