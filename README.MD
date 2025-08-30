@@ -5,6 +5,10 @@ wmic diskdrive get Status,Model
 # SSDPR-CX400-512-G2         OK
 
 
+
+  ![1](https://github.com/selecitevww/CYGAN-WMIC-COMMANDS/blob/main/wmic1.png)
+  ![1](https://github.com/selecitevww/CYGAN-WMIC-COMMANDS/blob/main/wmic2.png)
+
   ![1](https://github.com/selecitevww/CYGAN-WMIC-COMMANDS/blob/main/12345.png)
 
 X:\Windows\System32>wmic memorychip get capacity
